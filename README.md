@@ -12,7 +12,7 @@ A webite that can generate a random password with a chosen length of 8-128 chara
 https://joncurls.github.io/passGen/
 
 ## Thumbnail
-![Screenshot](assets/thumbnail.PNG)
+![Screenshot](assets/images/thumbnail.PNG)
 
 ## Creator
 Made with ❤️ and 💧 by Jonathan F.
